@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": {
+    "name": "waseem javed",
+    "email": "waseemjaved1919@gmail.com"
+  },
+  "description": "software and cyber engineer",
+  "scripts": {
+    "dev":"nodemon ./app.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1",
+    "uuid": "^11.0.3"
+  }
+}
